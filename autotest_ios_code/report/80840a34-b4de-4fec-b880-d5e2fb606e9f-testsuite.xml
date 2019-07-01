@@ -1,0 +1,101 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1556007426673" stop="1556007465480">
+  <name>test_home_page</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1556007426673" status="passed" stop="1556007433309">
+      <name>Test_Home_Page.test_jietu</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="31007-MainThread"/>
+        <label name="host" value="yuanzhengdeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps>
+        <step start="1556007429989" status="passed" stop="1556007433309">
+          <name>No4.--截图</name>
+          <title>No4.--截图</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1556007433310" status="passed" stop="1556007438047">
+      <name>Test_Home_Page.test_home_page_baby</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="31007-MainThread"/>
+        <label name="host" value="yuanzhengdeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps>
+        <step start="1556007433311" status="passed" stop="1556007438047">
+          <name>No5.--浏览首页滚动页面——健康咨询模块-子模块_育儿咨询</name>
+          <title>No5.--浏览首页滚动页面——健康咨询模块-子模块_育儿咨询</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1556007438048" status="passed" stop="1556007443463">
+      <name>Test_Home_Page.test_location_btn</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="31007-MainThread"/>
+        <label name="host" value="yuanzhengdeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps>
+        <step start="1556007438049" status="passed" stop="1556007443463">
+          <name>No.2--点击定位按钮</name>
+          <title>No.2--点击定位按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1556007443464" status="passed" stop="1556007446308">
+      <name>Test_Home_Page.test_click_home_page</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="31007-MainThread"/>
+        <label name="host" value="yuanzhengdeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps>
+        <step start="1556007443465" status="passed" stop="1556007446307">
+          <name>No.1--点击首页</name>
+          <title>No.1--点击首页</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1556007446309" status="passed" stop="1556007465480">
+      <name>Test_Home_Page.test_home_page</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="31007-MainThread"/>
+        <label name="host" value="yuanzhengdeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps>
+        <step start="1556007446310" status="passed" stop="1556007465479">
+          <name>No3.--浏览首页滚动页面——健康咨询模块</name>
+          <title>No3.--浏览首页滚动页面——健康咨询模块</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
